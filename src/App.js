@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Box>
+      <Box bg='brand.primary'>
           Hola Mundo
       </Box>
     </div>
